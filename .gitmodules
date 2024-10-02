@@ -1,0 +1,3 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/atakiya/stellaris-mod-deploy-tools

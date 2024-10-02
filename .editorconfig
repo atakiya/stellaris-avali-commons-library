@@ -1,0 +1,27 @@
+root = true
+
+[*]
+end_of_line = lf
+indent_size = 4
+indent_style = tab
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.{yml,yaml}]
+indent_size = 2
+indent_style = space
+
+# Stellaris/Clausewitz specific
+[*.{mod,txt}]
+charset = utf-8
+
+[common/name_lists/**.txt]
+charset = utf-8-bom
+
+[localisation/**.yml]
+charset = utf-8-bom
+indent_size = 1
+indent_style = space
