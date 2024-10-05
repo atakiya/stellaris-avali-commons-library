@@ -1,0 +1,9 @@
+AVALI =  {
+	avali_illuminate =  {
+		name = SPEC_Avali
+		plural = SPEC_Avali_pl
+		home_planet = SPEC_Avali_planet
+		home_system = SPEC_Avali_system
+		name_list = "AVALI1"
+	}
+}
