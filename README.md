@@ -17,6 +17,7 @@ This is a utility mod for Stellaris mods that adds common bases for the Avali sp
 - Localizations
 
 ## Contributing
+
 See something amiss? Pull Requests and issues are welcome.  
 
 ## Usage
@@ -106,12 +107,13 @@ Licensed under the MIT License.
 
 <!-- URL references -->
 
-[badge-download]: https://img.shields.io/badge/Get%20it%20now-on%20Steam-blue.svg?style=for-the-badge&color=00aeef
-[badge-license]: https://img.shields.io/github/license/atakiya/stellaris-avali-commons-library.svg?style=flat-square
-[badge-steam-filesize]: https://img.shields.io/steam/size/3340739706.svg?label=addon%20size&style=flat-square
-[badge-steam-subscriptions]: https://img.shields.io/steam/subscriptions/3340739706.svg?style=flat-square
-[badge-steam-downloads]: https://img.shields.io/steam/downloads/3340739706.svg?style=flat-square
-[badge-steam-views]: https://img.shields.io/steam/views/3340739706.svg?style=flat-square
+[badge-download]: https://img.shields.io/badge/Get%20it%20now-via%20Steam%20Workshop-blue.svg?style=for-the-badge&color=00aeef
+
+[badge-license]: https://img.shields.io/github/license/atakiya/stellaris-avali-commons-library.svg
+[badge-steam-filesize]: https://img.shields.io/steam/size/3340739706.svg?label=addon%20size
+[badge-steam-subscriptions]: https://img.shields.io/steam/subscriptions/3340739706.svg
+[badge-steam-downloads]: https://img.shields.io/steam/downloads/3340739706.svg
+[badge-steam-views]: https://img.shields.io/steam/views/3340739706.svg
 
 [credit-url-major_missile]: https://steamcommunity.com/id/missilesandafterburners
 
