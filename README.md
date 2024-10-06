@@ -1,9 +1,9 @@
 # Stellaris Avali Commons Library
 
+![Latest Git Tag][badge-git-tags]
 ![Steam Views][badge-steam-views]
 ![Steam Downloads][badge-steam-downloads]
 ![Steam Subscriptions][badge-steam-subscriptions]
-![Steam Addon Size][badge-steam-filesize]
 ![License][badge-license]
 
 _Across the stars. Together in feather and ice._
@@ -18,7 +18,7 @@ This is a utility mod for Stellaris mods that adds common bases for the Avali sp
 
 ## Contributing
 
-See something amiss? Pull Requests and issues are welcome.  
+See something amiss? Pull Requests and issues are welcome.
 
 ## Usage
 
@@ -29,8 +29,10 @@ See something amiss? Pull Requests and issues are welcome.
 This is a utility mod, so in most cases you should only install this if another mod depends on it.  
 However, this mod still adds name lists and a few other things that could be useful to make custom empires or have in a game, so it wouldn't hurt to use.
 
-The latest version of this mod can be found on the [Steam Workshop][steam-workshop-url].  
-If you require an earlier version, check the [git tags][github-tags] page or the [Releases][github-releases] page.  
+The latest version of this mod can be found on the [Steam Workshop][steam-workshop-url].
+
+If you require an earlier version, check the [git tags][github-tags] page or the [Releases][github-releases] page.
+
 To then download, simply click the `Source code (zip)` or `Source code (tar.gz)` links on the page of the version you want.
 
 You can either do a full manual install if you know how or use the included `manual-mod-install.cmd` script, simply double click it, it will create a link to this directory and a copy of the .mod file to the Stellaris mods directory.
@@ -59,8 +61,8 @@ Examples:
 |------|------------|-------------|
 | Graphical Culture | `avalian_01` | Controls ship color and lighting, as well as city backgrounds |
 | Name Lists | `AVALI1` | Namelists for ships, fleets, armies, planets and characters |
-| Portrait Categories | `avalian` |  |
-| Species Classes | `AVALI` | |
+| Portrait Categories | `avalian` ||
+| Species Classes | `AVALI` ||
 | Species Names | `AVALI` | Definition for compound of Name, Plural, Adjective, Homeplanet, Homesystem and Namelist |
 
 ### I want to add a new portrait! How?
@@ -98,29 +100,33 @@ Spanish | 0%
 
 ## Credits
 
-- [Major Missile][credit-url-major_missile] - compiled initial namelists for ASAE
-- Avali race, lore and concept ©️ RyuujinZERO, licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][license-cc-by-sa-4.0]
+- Unless otherwise specified - ©️ [Avunia Takiya][credit-url-atakiya]
+- Initial namelists for ASAE - [Major Missile][credit-url-major_missile]
+- Avali race, lore and concept - ©️ RyuujinZERO, licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][license-CC-BY-SA-4.0]
 
 ## License
 
-Licensed under the MIT License.  
+Licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][license-CC-BY-NC-SA-4.0]
 
 <!-- URL references -->
+[ASAE-github-url]: https://github.com/atakiya/ASAE/
 
 [badge-download]: https://img.shields.io/badge/Get%20it%20now-via%20Steam%20Workshop-blue.svg?style=for-the-badge&color=00aeef
 
+[badge-git-tags]: https://img.shields.io/github/v/tag/atakiya/stellaris-avali-commons-library.svg
 [badge-license]: https://img.shields.io/github/license/atakiya/stellaris-avali-commons-library.svg
-[badge-steam-filesize]: https://img.shields.io/steam/size/3340739706.svg?label=addon%20size
-[badge-steam-subscriptions]: https://img.shields.io/steam/subscriptions/3340739706.svg
+
 [badge-steam-downloads]: https://img.shields.io/steam/downloads/3340739706.svg
+[badge-steam-subscriptions]: https://img.shields.io/steam/subscriptions/3340739706.svg
 [badge-steam-views]: https://img.shields.io/steam/views/3340739706.svg
 
+[credit-url-atakiya]: https://avunia.takiya.eu/
 [credit-url-major_missile]: https://steamcommunity.com/id/missilesandafterburners
-
-[license-cc-by-nc-nd-4.0]: https://creativecommons.org/licenses/by-nc-nd/4.0/
-[license-cc-by-sa-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 
 [github-releases]: https://github.com/atakiya/stellaris-avali-commons-library/releases
 [github-tags]: https://github.com/atakiya/stellaris-avali-commons-library/tags
+
+[license-CC-BY-NC-SA-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[license-CC-BY-SA-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 
 [steam-workshop-url]: https://steamcommunity.com/sharedfiles/filedetails/?id=3340739706
